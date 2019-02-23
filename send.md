@@ -1,2 +1,2 @@
 
-You will get address to send transactions.
+* You will get address to send transactions.
