@@ -5,14 +5,3 @@
 
 * First go to http://blockchain.terragreen.io/Account/Login and get APIs key to create new wallet
 
-<table>
-<tr>
-  <td align="center">Name</td>
-  <td align="center">Description</td>
-</tr>
-
-<tr>
-  <td align="center">Name</td>
-  <td align="center">Description</td>
-</tr>
-</table>
