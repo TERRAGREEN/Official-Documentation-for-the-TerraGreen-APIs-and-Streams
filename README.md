@@ -10,7 +10,7 @@
 </tr>
 
 <tr>
-  <td align="center">APIs</td>
+  <td align="center">initial</td>
   <td align="center">Description</td>
 </tr>
 </table>
