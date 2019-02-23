@@ -12,7 +12,7 @@
 </tr>
 
 <tr>
-  <td align="center">initial</td>
+  <td align="center">Name</td>
   <td align="center">Description</td>
 </tr>
 </table>
