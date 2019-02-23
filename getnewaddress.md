@@ -1,2 +1,2 @@
 
-* You will get new address for Transaction
+* You will get new address for Transaction.
