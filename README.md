@@ -3,6 +3,8 @@
 * Streams ,endpoints,parameters,payloads,etc. described inin the documents in this repository are considered official and supported.
 * The use of any other streams, endpoints, parameters, or payloads, etc. is not supported; use them at your own risk and with no guarantees.
 
+First go to http://blockchain.terragreen.io/Account/Login and get APIs key to create new waalet
+
 <table>
 <tr>
   <td align="center">Name</td>
