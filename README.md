@@ -18,7 +18,7 @@
    
    <tr>
    <td>
-     Initialize.md
+    <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/initialize.md"> initialize.md</a>
     </td>
    <td>
      For Wallet Login.After Login you will get token, that token you have to pass to the all APIs header.
