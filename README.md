@@ -74,7 +74,7 @@
  
    <tr align="center">
   <td>
-     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-   Streams/blob/master/getrate.php">getrate.md </a>
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getrate.php">getrate.md </a>
   </td>
   
   <td>
