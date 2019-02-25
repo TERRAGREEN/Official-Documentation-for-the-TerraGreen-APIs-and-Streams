@@ -16,7 +16,7 @@
    </td>
    </tr>
    
-   <tr>
+   <tr align="center">
    <td>
     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/Initialize.php"> initialize.md</a>
     </td>
@@ -25,7 +25,7 @@
    </td>
    </tr>
   
-  <tr>
+  <tr align="center">
    <td>
     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/create_wallet.php">createwallet.md </a>
     </td>
