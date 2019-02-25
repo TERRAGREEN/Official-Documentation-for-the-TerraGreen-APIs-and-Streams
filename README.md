@@ -45,7 +45,7 @@
   
   <tr>
    <td>
-     <a herf="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/initialize.md">send.md</a>
+     <a herf="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/initialize.md"> send.md</a>
     </td>
    <td>
      You will get address to send transactions.
