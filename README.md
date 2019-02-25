@@ -56,7 +56,7 @@
   <td>
      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/credentials.md"> credentials.md </a> 
   </td>
-     ------------------                                        
+                                
   <td>
   
   </td>
@@ -68,7 +68,7 @@
   </td>
   
   <td>
-  -----------------------
+
   </td>
   </tr>
  
@@ -78,7 +78,7 @@
   </td>
   
   <td>
-  -------------
+ 
   </td>
   </tr>
 </table>
