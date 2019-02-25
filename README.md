@@ -7,7 +7,7 @@
 
 <table>
   
- <tr>
+ <tr align="center">
    <td>
      Name
     </td>
