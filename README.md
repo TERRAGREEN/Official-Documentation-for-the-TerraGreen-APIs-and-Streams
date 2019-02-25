@@ -58,7 +58,7 @@
   </td>
                                 
   <td>
-  
+    Deatails about Credentials
   </td>
   </tr>
   
@@ -68,7 +68,7 @@
   </td>
   
   <td>
-
+    Details about Get Balance
   </td>
   </tr>
  
