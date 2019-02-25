@@ -7,7 +7,7 @@
 
 <table>
   
- <tr align="center">
+ <tr >
    <td>
      Name
     </td>
@@ -16,7 +16,7 @@
    </td>
    </tr>
    
-   <tr align="center">
+   <tr >
    <td>
     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/Initialize.php"> initialize.md</a>
     </td>
@@ -25,7 +25,7 @@
    </td>
    </tr>
   
-  <tr align="center">
+  <tr >
    <td>
     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/create_wallet.php">createwallet.md </a>
     </td>
@@ -34,7 +34,7 @@
    </td>
    </tr>
   
-  <tr align="center">
+  <tr >
    <td>
      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getnewaddres.php">getnewaddress.md</a>
     </td>
@@ -43,7 +43,7 @@
    </td>
    </tr>
   
-  <tr align="center">
+  <tr >
    <td>
       <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/send.php">send.md</a>
     </td>
@@ -52,7 +52,7 @@
    </td>
    </tr>
   
-  <tr align="center">
+  <tr >
   <td>
      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/credentials.php"> credentials.md </a> 
   </td>
@@ -62,7 +62,7 @@
   </td>
   </tr>
   
-  <tr align="center">
+  <tr >
   <td>
       <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getbalance.php">getbalance.md</a>
   </td>
@@ -72,7 +72,7 @@
   </td>
   </tr>
  
-   <tr align="center">
+   <tr >
   <td>
      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getrate.php">getrate.md </a>
   </td>
@@ -82,7 +82,7 @@
   </td>
   </tr>
   
-  <tr align="center">
+  <tr >
   <td>
      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getransactionlist.php">gettransactionlist.md </a>
   </td>
