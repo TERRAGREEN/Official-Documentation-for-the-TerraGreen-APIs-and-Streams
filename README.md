@@ -18,7 +18,7 @@
    
    <tr>
    <td>
-    <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/initialize.md"> initialize.md</a>
+    <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/Initialize.php"> initialize.md</a>
     </td>
    <td>
      For Wallet Login.After Login you will get token, that token you have to pass to the all APIs header.
@@ -27,7 +27,7 @@
   
   <tr>
    <td>
-    <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/createwallet.md">createwallet.md </a>
+    <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/create_wallet.php">createwallet.md </a>
     </td>
    <td>
      To create new wallet by using APIs Secret key.
@@ -36,7 +36,7 @@
   
   <tr>
    <td>
-     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getnewaddress.md">getnewaddress.md</a>
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getnewaddres.php">getnewaddress.md</a>
     </td>
    <td>
      You will get new address for Transaction.
@@ -45,7 +45,7 @@
   
   <tr>
    <td>
-      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getnewaddress.md">send.md</a>
+      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/send.php">send.md</a>
     </td>
    <td>
      You will get address to send transactions.
@@ -54,7 +54,7 @@
   
   <tr>
   <td>
-     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/credentials.md"> credentials.md </a> 
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/credentials.php"> credentials.md </a> 
   </td>
                                 
   <td>
@@ -64,7 +64,7 @@
   
   <tr>
   <td>
-      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getbalance.md">getbalance.md</a>
+      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getbalance.php">getbalance.md</a>
   </td>
   
   <td>
@@ -74,7 +74,7 @@
  
    <tr>
   <td>
-     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getrate.md">getrate.md </a>
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getrate.php">getrate.md </a>
   </td>
   
   <td>
