@@ -74,11 +74,21 @@
  
    <tr>
   <td>
-     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getrate.php">getrate.md </a>
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-   Streams/blob/master/getrate.php">getrate.md </a>
   </td>
   
   <td>
   Details about Get Rate
+  </td>
+  </tr>
+  
+  <tr>
+  <td>
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-   Streams/blob/master/getrate.php">gettransactionlist.md </a>
+  </td>
+  
+  <td>
+  Details about Transactionlist
   </td>
   </tr>
 </table>
