@@ -52,6 +52,34 @@
    </td>
    </tr>
   
+  <tr>
+  <td>
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/credentials.md"> credentials.md </a> 
+  </td>
+     ------------------                                        
+  <td>
   
+  </td>
+  </tr>
+  
+  <tr>
+  <td>
+      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getbalance.md">getbalance</a>
+  </td>
+  
+  <td>
+  -----------------------
+  </td>
+  </tr>
+ 
+   <tr>
+  <td>
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getrate.md">getrate </a>
+  </td>
+  
+  <td>
+  -------------
+  </td>
+  </tr>
 </table>
 
