@@ -27,7 +27,7 @@
   
   <tr>
    <td>
-     createwallet.md
+    <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/createwallet.md">createwallet.md </a>
     </td>
    <td>
      To create new wallet by using APIs Secret key.
@@ -36,7 +36,7 @@
   
   <tr>
    <td>
-     getnewaddress.md
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getnewaddress.md">getnewaddress.md</a>
     </td>
    <td>
      You will get new address for Transaction.
@@ -45,7 +45,7 @@
   
   <tr>
    <td>
-     send.md
+     <a herf="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/initialize.md">send.md</a>
     </td>
    <td>
      You will get address to send transactions.
