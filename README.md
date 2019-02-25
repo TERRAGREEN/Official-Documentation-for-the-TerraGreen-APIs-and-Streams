@@ -78,7 +78,7 @@
   </td>
   
   <td>
- 
+  Details about Get Rate
   </td>
   </tr>
 </table>
