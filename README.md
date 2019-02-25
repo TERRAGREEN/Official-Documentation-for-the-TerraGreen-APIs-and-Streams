@@ -64,7 +64,7 @@
   
   <tr>
   <td>
-      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getbalance.md">getbalance</a>
+      <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getbalance.md">getbalance.md</a>
   </td>
   
   <td>
@@ -74,7 +74,7 @@
  
    <tr>
   <td>
-     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getrate.md">getrate </a>
+     <a href="https://github.com/TERRAGREEN/Official-Documentation-for-the-TerraGreen-APIs-and-Streams/blob/master/getrate.md">getrate.md </a>
   </td>
   
   <td>
